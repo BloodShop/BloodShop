@@ -57,6 +57,7 @@
 
 <p>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-E34F26.svg?logo=Postman&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?logo=Docker&logoColor=white"></a>
     <a href="#"><img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF69B4.svg?logo=storybook&logoColor=white"></a>
     <a href="#"><img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-000000?logo=bitcoin&logoColor=white"></a>
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=Jira&logoColor=white"></a>
