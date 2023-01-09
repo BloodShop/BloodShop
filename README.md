@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍💻 Programming and markup languages
+### 👨‍💻 **Programming and markup languages**
 
 
 <p>
