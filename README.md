@@ -75,11 +75,6 @@
 [☕ Buy me a coffee](https://ko-fi.com/alonkolyakov)
 
 ---
-<div style="display: table;">
-<!-- <a href="https://github.com/bloodshop">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodshop&theme=blue-green" />
-</a> -->
-  <a href="https://github.com/bloodshop">
-  <img src="https://github-readme-stats.vercel.app/api?username=bloodshop&theme=blue-green" />
+<a href="https://github.com/BloodShop">
+  <img height="180em" width="410em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BloodShop&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" alt="github- stats"/>
 </a>
-</div>
