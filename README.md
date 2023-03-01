@@ -34,6 +34,7 @@
 ### 🧰 Frameworks and libraries
 
 <p>
+    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-194d33.svg?logo=vuedotjs&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-E23237.svg?logo=angular&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
