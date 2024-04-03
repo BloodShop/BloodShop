@@ -6,12 +6,10 @@
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/alon-kolyakov)
 
-## **I'm a FullStack Developer**
+## **I'm a Backend Developer**
 
-- 🎯 **I’m currently working on**: Jewbot •	An online exchange website where users can trade cryptocurrencies and provides a crypto wallet.
-- 💼 **I'm looking for a job.**
-- 💬 **Ask me about**: .NET, EF6, RESTful APIs, DBs, Software Architecture, Design Patterns, Azure, JS, Docker, Dependency Injection, python.
-- 📚 **I’m currently learning**: ReactJs & THREE (JavaScript 3D Library)
+- 🎯 **I’m currently working on**: Abra R&D •
+- 💬 **Ask me about**: .NET, Software Architecture, Design Patterns, AWS, JS, Docker, Dependency Injection, python.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
 - ⚡ **Fun fact**: I really love 🏋️‍♂️, 👨‍💻, 🐶 and lots of ☕.
 
@@ -34,14 +32,7 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-194d33.svg?logo=vuedotjs&logoColor=white"></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-E23237.svg?logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-007FFF?logo=three&logoColor=white"></a>
-    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-%2338bdf8?logo=tailwind-css&logoColor=white"></a>
-  
 </p>
 
 ### 🗄️ Databases and cloud hosting
