@@ -20,7 +20,7 @@
 
 <p>
  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="c#" src="https://img.shields.io/badge/csharp-9400D3.svg?logo=csharp&logoColor=white"></a>
- <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="c" src=""></a>
+ <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="c" src="https://img.shields.io/badge/c-9400D3.svg"></a>
  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="c++" src="https://img.shields.io/badge/cpp-9400D3.svg?logo=cpp&logoColor=white"></a>
    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="java" src="https://img.shields.io/badge/java-f7f7f7.svg?logo=java&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
