@@ -41,12 +41,13 @@
 ### 🗄️ Databases and cloud hosting
 
 <p>
+  <a href="#"><img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-f7f7f7.svg?logo=dynamodb&logoColor=blue"></a>
+  <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-f7f7f7.svg?logo=Postgresql&logoColor=blue"></a>
   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="AS400" src="https://img.shields.io/badge/AS400-ffffff.svg?logo=ibm%20as400&logoColor=4f68ff"></a>
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>   
   <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?logo=microsoft%20sql%20server&logoColor=white"></a> 
-  <a href="#"><img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-f7f7f7.svg?logo=dynamodb&logoColor=blue"></a>
-  <a href="#"><img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-f7f7f7.svg?logo=Postgresql&logoColor=blue"></a>
 </p>
 
 ### 💻 Software and tools
