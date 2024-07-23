@@ -8,10 +8,10 @@
 
 ## **I'm a Software Developer**
 
-• 🎯 **I’m currently working at**: Abra R&D Solutions (formerly Devalore) as a Backend Developer
-• 💬 **Ask me about**: .NET, python, Software Architecture, Design Patterns, AWS, Typescript, Docker, elk.
-• 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
-• ⚡ **Fun fact**: My dog's name is Void, and he is a Pointer.
+- 🎯 **I’m currently working at**: Abra R&D Solutions • (formerly Devalore) as a Backend Developer
+- 💬 **Ask me about**: .NET, python, Software Architecture, Design Patterns, AWS, Typescript, Docker, elk.
+- 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
+- ⚡ **Fun fact**: My dog's name is Void, and he is a Pointer.
 
 ---
 
