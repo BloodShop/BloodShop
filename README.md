@@ -6,12 +6,12 @@
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/alon-kolyakov)
 
-## **I'm a Backend Developer**
+## **I'm a Software Developer**
 
-- 🎯 **I’m currently working on**: Abra R&D •
-- 💬 **Ask me about**: .NET, Software Architecture, Design Patterns, AWS, JS, Docker, Dependency Injection, python.
+- 🎯 **I’m currently working at**: Abra R&D Solutions (formerly Devalore) as a Backend Developer•
+- 💬 **Ask me about**: .NET, python, Software Architecture, Design Patterns, AWS, Typescript, Docker, elk.
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
-- ⚡ **Fun fact**: I really love 🏋️‍♂️, 👨‍💻, 🐶 and lots of ☕.
+- ⚡ **Fun fact**: My dog's name is Void, and he is a Pointer.
 
 ---
 
